@@ -35,5 +35,5 @@ The models are applied to both basic datasets for learning purposes and to stock
 
 #### Credits
 
-Special thanks to **RitvikMaths** for introducing the concepts and providing a foundational model for implementation. His videoes were helpful in understanding of these time series forecasting techniques.
+Special thanks to **RitvikMath** for introducing the concepts and providing a foundational model for implementation. His videos helped me understand these time series forecasting techniques.
 
